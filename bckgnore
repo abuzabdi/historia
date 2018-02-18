@@ -1,0 +1,7 @@
+*.py[cod]
+spiderproject/*.scrapy_log
+.DS_Store
+venv
+*.pyc
+staticfiles
+.env

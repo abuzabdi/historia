@@ -1,3 +1,11 @@
+
+
+import os
+env = os.environ.copy()
+SECRET_KEY = env['9MxZFRBwnLfbKmXn2yj6AbwmapcFPTLH95Buga654MnDFJM7qs']
+
+
+
 from __future__ import absolute_import, unicode_literals
 
 from .base import *
